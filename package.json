@@ -1,0 +1,30 @@
+{
+    "name": "obs-request",
+    "version": "0.0.1",
+    "description": "HTTP request in node, returned as an obs (observable) from fnl.",
+    "main": "obs_request.js",
+    "dependencies": {
+        "fnl": "^0.0.22",
+        "lang-mini": "^0.0.26"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/metabench/localhost-service.git"
+    },
+    "keywords": [
+        "localhost",
+        "service",
+        "singleton",
+        "http",
+        "https"
+    ],
+    "author": "James Vickers",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/metabench/obs-request/issues"
+    },
+    "homepage": "https://github.com/metabench/obs-request#readme"
+}
